@@ -1,0 +1,4 @@
+1. Use class methods for global things.
+2. Use inheritance, polymorphism
+3. Use every inbuilt data structure as much as possible i.e list, dictionaries, tuples and sets.
+4. Use public, private and protected variables.

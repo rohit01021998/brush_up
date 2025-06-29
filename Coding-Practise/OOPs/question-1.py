@@ -18,6 +18,7 @@ book_ids = []
 book_count = 0
 
 class Book():
+
     def __init__(self, book_id, book_name, book_author):
         self.book_id = book_id
         self.book_name = book_name

@@ -1,0 +1,4 @@
+1. Use one liner for if else (used in assinging variable).
+2. Use Global variables only when needed else use class methods.
+3. Use one liner while loop.
+4. do not hesitate when to use expanded loops, simply use and shorten when needed.
