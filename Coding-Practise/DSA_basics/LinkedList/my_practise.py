@@ -1,9 +1,10 @@
 '''
 1. Features to add: append, pop, prepend, pop_first, get, set_value, print_list, insert (at index), remove (at index), reverse.
 2. Thought Process: Think of features need in Node (value, next) > Think of features present in LinkedList (Node, head, tail, temp/node_before_temp)
-3. Reversing a linkedlist requires three variables: before-temp-after
-head next              Tail
-   *  ->  *  ->  *  ->  *
+3. Reversing a linkedlist requires three variables: before-temp-after.
+
+head  next              Tail
+   *   ->   *  ->  *  ->  *
 '''
 
 class Node:
