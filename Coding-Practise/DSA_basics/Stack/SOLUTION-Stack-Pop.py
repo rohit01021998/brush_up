@@ -3,7 +3,6 @@ class Node:
         self.value = value
         self.next = None
         
-
 class Stack:
     def __init__(self, value):
         new_node = Node(value)
@@ -34,9 +33,6 @@ class Stack:
         temp.next = None
         self.height -= 1
         return temp
-    
-
-    
 
 my_stack = Stack(4)
 my_stack.push(3)
@@ -51,8 +47,6 @@ print(my_stack.pop().value)
 
 print('\nStack after pop():')
 my_stack.print_stack()
-
-
 
 """
     EXPECTED OUTPUT:
